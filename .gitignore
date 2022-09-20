@@ -9,3 +9,5 @@ bazel-*
 .settings/
 # Maven
 target/
+# Logs
+*.log
